@@ -1,2 +1,3 @@
-print ("hello KOPAA")
+
 print ("Tests")
+print (" Testi beigušies")
